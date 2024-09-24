@@ -1,4 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #000000;
     color: #F6F6F6;
 }
@@ -11,4 +18,8 @@ span{
     color: #22D4FD;
     border: 1px solid #22D4FD;
     padding: 10px;
+}
+
+.titulo-destaque{
+    color:#22D4FD;
 }
