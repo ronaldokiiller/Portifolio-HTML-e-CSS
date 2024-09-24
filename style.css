@@ -23,3 +23,7 @@ span{
 .titulo-destaque{
     color:#22D4FD;
 }
+
+.apresentacao{
+    display: flex;
+}
